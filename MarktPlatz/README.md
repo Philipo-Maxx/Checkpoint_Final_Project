@@ -1,0 +1,1 @@
+The Title of my group final project is Marktplatz, which is a german word for Market Place, The App provides an avenue where Business owners can host their various Ecommerce product online and buyers can easily locate them when they log in to the platform. It helps to connect Business owners to millions of people connected to the internet.
